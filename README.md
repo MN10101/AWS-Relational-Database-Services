@@ -32,7 +32,7 @@ The document covers the following topics:
 
 ## How to Use this Repository
 
-- **View the PDF**: The main document is available [here](./Relational Database Services on AWS.pdf).
+- **View the PDF**: The main document is available [here](Relational Database Services on AWS.pdf).
 - **Explore the Content**: Review the comparative analysis and examples to understand the strengths and limitations of each AWS relational database service.
 
 ## Conclusion
